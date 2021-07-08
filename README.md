@@ -6,7 +6,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseraydin/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:aydinyaser87@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://zeynulsuleyman.medium.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynulsuleyman" alt="zeynulsuleyman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YaserAydın" alt="YaserAydin" /> </p>
 ## :computer: Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
